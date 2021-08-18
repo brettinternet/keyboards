@@ -1,5 +1,5 @@
 # Keyboards
 
-### QMK
+## Resources
 
-1. [Ergodox_ez](https://configure.ergodox-ez.com/ergodox-ez/layouts/plJeG/latest/0)
+- [key tester](https://config.qmk.fm/#/test)
