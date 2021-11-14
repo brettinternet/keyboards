@@ -1,0 +1,1 @@
+- https://github.com/qmk/qmk_firmware/tree/master/keyboards/kprepublic/bm60rgb
